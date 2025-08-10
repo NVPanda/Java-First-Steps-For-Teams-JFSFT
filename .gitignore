@@ -1,11 +1,25 @@
-# Compiled class file
+# Compiled class files
 *.class
 
-# Log file
+# Log files
 *.log
 
-# BlueJ files
+# BlueJ files (se usar)
 *.ctxt
+
+# IntelliJ / Eclipse / NetBeans
+.idea/
+*.iml
+*.ipr
+*.iws
+*.nbproject/
+*.settings/
+target/
+bin/
+
+# Outros
+.DS_Store
+Thumbs.db
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
